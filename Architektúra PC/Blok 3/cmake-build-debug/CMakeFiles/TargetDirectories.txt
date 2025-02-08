@@ -1,3 +1,0 @@
-/cygdrive/c/Users/jojob/OneDrive/Počítač/Architektúra PC/Blok 3/cmake-build-debug/CMakeFiles/Blok_3.dir
-/cygdrive/c/Users/jojob/OneDrive/Počítač/Architektúra PC/Blok 3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/jojob/OneDrive/Počítač/Architektúra PC/Blok 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
